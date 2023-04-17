@@ -6,7 +6,7 @@ For this weeks assignment I was given some started-code for javascript that I ne
 
 ## Source
 
-Started code was inside of the MSU file: 
+Started code was inside of the MSU file: https://git.bootcampcontent.com/Michigan-State-University/MSU-VIRT-FSF-PT-03-2023-U-LOLC
 
 
 ##Author
