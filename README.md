@@ -9,5 +9,5 @@ For this weeks assignment I was given some started-code for javascript that I ne
 Starter code was inside of the MSU file: https://git.bootcampcontent.com/Michigan-State-University/MSU-VIRT-FSF-PT-03-2023-U-LOLC
 
 
-##Author
+## Author
 Nigel Watkins : https://github.com/nigeldwatkins
