@@ -7,3 +7,7 @@ For this weeks assignment I was given some started-code for javascript that I ne
 ## Source
 
 Started code was inside of the MSU file: 
+
+
+##Author
+Nigel Watkins : https://github.com/nigeldwatkins
