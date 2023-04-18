@@ -2,7 +2,7 @@
 
 
 ## Description
-For this weeks assignment I was given some started-code for javascript that I needed to complete that would generate a random password for my clients. I needed to make sure it had options that my clients could choose from, such as wheteher or not they want numbers, special characters, upper or lowercase letters inside of their password. I also have to make sure that the website is able to accessible with any device that is being used.
+For this weeks assignment I was given some started-code for javascript that I needed to complete that would generate a random password for my clients. I needed to make sure it had options that my clients could choose from, such as whether or not they want numbers, special characters, upper or lowercase letters inside of their password. I also have to make sure that the website is able to accessible with any device that is being used.
 
 ## Source
 
